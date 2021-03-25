@@ -63,6 +63,6 @@
 <plugin name="cordova-plugin-whitelist" spec="1.3.4" />
 
     
-<icon src="img/dapoBija.png" />
-  <splash src="img/splash.png" />
+<icon src="img/icon.png" />
+  <splash src="img/icon.png" />
 </widget>
